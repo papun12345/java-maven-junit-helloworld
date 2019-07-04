@@ -174,4 +174,12 @@
 
     </plugins>
   </build>
+         
+         
+ <distributionManagement>
+    <repository>
+      <id>devopstraining</id>
+      <url>http://3.14.251.87:8081/nexus/content/repositories/devopstraining/</url>
+    </repository>
+  </distributionManagement>
 </project>
